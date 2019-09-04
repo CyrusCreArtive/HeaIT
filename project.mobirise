@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Hea.It",
-    "currentPage": "page6.html",
+    "currentPage": "Index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -131,21 +131,21 @@
             "imageSize": "60",
             "paddingTop": "4",
             "paddingBottom": "4",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1511.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#f97352",
-            "bgVideoRadio": false,
+            "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/3_Ljd73mxtg?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://youtu.be/3_Ljd73mxtg",
+              "url": "https://www.youtube.com/embed/5-LyRjHlRgQ?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/5-LyRjHlRgQ",
               "width": 1280,
               "height": 720
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.6"
+            "overlayOpacity": "0.8"
           },
           "media": {
             "image": {

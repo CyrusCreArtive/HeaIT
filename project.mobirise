@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Hea.It",
-    "currentPage": "page11.html",
+    "currentPage": "page7.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -23,7 +23,16 @@
     "siteUrl": "",
     "sitemapSwitcherAuto": "on",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": ""
+    "robotsSwitcher": "",
+    "cookiesAlert": {
+      "colorText": "#424a4d",
+      "colorBg": "#eaeff1",
+      "colorButton": "#ffffff",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacity": "99",
+      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
+    }
   },
   "pages": {
     "Index.html": {
@@ -273,9 +282,9 @@
           "title": "SUBSCRIBE TO OUR NEWSLETTER",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">SUBSCRIBE</a>",
           "form": {
-            "action": "cyruscreartive@gmail.com",
+            "action": "zvi@hea.it.co.za",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for Subscribing!"
             },
             "fields": {
               "email": {
@@ -794,7 +803,7 @@
               "state": "ok"
             }
           },
-          "text1": "<strong>POSTAL ADDRESS</strong><br>PO Box 2026,<br> Highlands North 2037<br><br>\n<strong>CONTACTS</strong><br>\nEmail: Zvi@nonyaprop.co.za<br>\nTell: 011 440 6222&nbsp;<br>\nCell: 079 434 7066",
+          "text1": "<strong>POSTAL ADDRESS</strong><br>PO Box 2026,<br> Highlands North 2037<br><br>\n<strong>CONTACTS</strong><br>\nEmail: Zvi@hea.it.co.za<br>\nTell: 011 440 6222&nbsp;<br>\nCell: 079 434 7066",
           "text2": "",
           "_tags": [
             "Theme"
@@ -824,9 +833,9 @@
           "title": "CONTACT FORM",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
           "form": {
-            "action": "cyruscreartive@gmail.com",
+            "action": "Zvi@hea.it.co.za",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for Contacting Us... Will get back to you soon!"
             },
             "fields": {
               "name": {
@@ -1250,7 +1259,7 @@
     "page6.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
-        "title": "Colposcope  &amp; Sexual Assault",
+        "title": "Colposcope  &amp;amp; Sexual Assault",
         "order": 4
       },
       "components": [

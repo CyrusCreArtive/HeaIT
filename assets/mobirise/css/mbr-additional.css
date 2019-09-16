@@ -28,29 +28,33 @@
 #dropdown-menu-0 .navbar-toggler {
   color: #ffffff;
 }
-#footer1-c P {
-  color: #ffffff;
-  text-align: center;
-}
 #msg-box4-e .mbr-header__text {
-  color: #ffffff;
+  color: #00a79e;
 }
 #msg-box4-e .mbr-header__subtext {
-  color: #ffffff;
+  color: #00a79e;
 }
 #msg-box4-e .mbr-article {
-  color: #ffffff;
+  color: #1998d5;
 }
 #msg-box4-e .mbr-article DIV {
-  font-size: 13px;
+  font-size: 16px;
 }
 #msg-box4-e .mbr-header__subtext B {
   font-size: 32px;
 }
 #form2-j .mbr-header__text {
-  color: #00a79e;
+  color: #ffffff;
   text-align: left;
 }
+#contacts1-1s P {
+  color: #ffffff;
+}
+#footer1-1t P {
+  color: #ffffff;
+  text-align: center;
+}
+
 
 
 #dropdown-menu-15 .hide-buttons [data-button] {
@@ -78,10 +82,17 @@
 #dropdown-menu-15 .navbar-toggler {
   color: #ffffff;
 }
-#header3-1t H3 {
-  font-size: 48px;
+#content5-1u .mbr-header .mbr-header__text {
   text-align: center;
-  color: #1998d5;
+  color: #ffffff;
+  font-size: 48px;
+}
+#content5-1u .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-1u .mbr-article {
+  color: #fff;
 }
 #msg-box3-1a .mbr-header .mbr-header__text {
   text-align: center;
@@ -89,6 +100,19 @@
 }
 #msg-box3-1a .mbr-header .mbr-header__subtext {
   text-align: center;
+}
+#content5-1t .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 36px;
+}
+#content5-1t .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-1t .mbr-article {
+  color: #fff;
 }
 #contacts1-1o P {
   color: #ffffff;
@@ -139,6 +163,10 @@
 #contacts2-24 P {
   color: #ffffff;
 }
+#form1-23 .mbr-header__text {
+  color: #1998d5;
+}
+
 
 
 #dropdown-menu-25 .hide-buttons [data-button] {
@@ -189,6 +217,20 @@
   color: #00a79e;
   font-size: 25px;
 }
+#content5-1v .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 36px;
+}
+#content5-1v .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-1v .mbr-article {
+  color: #fff;
+}
+
 
 
 #dropdown-menu-2d .hide-buttons [data-button] {
@@ -216,10 +258,17 @@
 #dropdown-menu-2d .navbar-toggler {
   color: #ffffff;
 }
-#header3-1u H3 {
-  font-size: 48px;
+#content5-1v .mbr-header .mbr-header__text {
   text-align: center;
-  color: #1998d5;
+  color: #ffffff;
+  font-size: 48px;
+}
+#content5-1v .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-1v .mbr-article {
+  color: #fff;
 }
 #msg-box3-2i .mbr-header .mbr-header__text {
   text-align: center;
@@ -228,9 +277,23 @@
 #msg-box3-2i .mbr-header .mbr-header__subtext {
   text-align: center;
 }
+#content5-1u .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 36px;
+}
+#content5-1u .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-1u .mbr-article {
+  color: #fff;
+}
 #contacts1-2g P {
   color: #ffffff;
 }
+
 
 
 #dropdown-menu-2j .hide-buttons [data-button] {
@@ -258,14 +321,39 @@
 #dropdown-menu-2j .navbar-toggler {
   color: #ffffff;
 }
-#header3-1s H3 {
-  font-size: 48px;
+#content5-1s .mbr-header .mbr-header__text {
   text-align: center;
-  color: #1998d5;
+  color: #ffffff;
+  font-size: 48px;
+}
+#content5-1s .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-1s .mbr-article {
+  color: #fff;
 }
 #content4-2p .mbr-section-title .mbr-header__text {
   color: #1998d5;
   font-size: 72px;
+}
+#features1-1t .mbr-section__col .mbr-header__text {
+  color: #00a79e;
+  text-align: right;
+  font-size: 15px;
+}
+#content5-1s .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 36px;
+}
+#content5-1s .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-1s .mbr-article {
+  color: #fff;
 }
 #contacts1-2m P {
   color: #ffffff;
@@ -305,6 +393,7 @@
 #content5-2w .mbr-header .mbr-header__text {
   text-align: center;
   color: #fff;
+  font-size: 36px;
 }
 #content5-2w .mbr-header .mbr-header__subtext {
   text-align: center;
@@ -313,37 +402,15 @@
 #content5-2w .mbr-article {
   color: #fff;
 }
-#features1-2x .mbr-section__col .mbr-header__text {
+#content5-2w .mbr-article P {
+  text-align: center;
+}
+#features1-1v P {
+  text-align: center;
+}
+#features1-1v .mbr-section__col .mbr-header__text {
+  font-size: 21px;
   color: #00a79e;
-  text-align: right;
-  font-size: 15px;
-}
-#msg-box5-2y .mbr-header__text {
-  color: #ffffff;
-}
-#msg-box5-2y .mbr-header__subtext {
-  color: #ffffff;
-}
-#msg-box5-2y .mbr-article {
-  color: #ffffff;
-}
-#msg-box4-2z .mbr-header__text {
-  color: #ffffff;
-}
-#msg-box4-2z .mbr-header__subtext {
-  color: #ffffff;
-}
-#msg-box4-2z .mbr-article {
-  color: #ffffff;
-}
-#msg-box5-30 .mbr-header__text {
-  color: #ffffff;
-}
-#msg-box5-30 .mbr-header__subtext {
-  color: #ffffff;
-}
-#msg-box5-30 .mbr-article {
-  color: #ffffff;
 }
 #content5-2t .mbr-header .mbr-header__text {
   text-align: center;
@@ -355,5 +422,65 @@
   color: #fff;
 }
 #content5-2t .mbr-article {
+  color: #fff;
+}
+#header4-1t H1 {
+  font-size: 84px;
+}
+
+
+
+#dropdown-menu-1x .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-1x .navbar-brand a {
+  font-size: 36px;
+  font-family: 'Droid Sans', sans-serif;
+}
+#dropdown-menu-1x .nav .link,
+#dropdown-menu-1x .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+}
+#dropdown-menu-1x .navbar,
+#dropdown-menu-1x .dropdown-menu {
+  background: #00a79e;
+}
+#dropdown-menu-1x .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-1x .dropdown-menu a:hover,
+#dropdown-menu-1x .dropdown-menu a:focus {
+  background: #00938b;
+}
+#dropdown-menu-1x .navbar-toggler {
+  color: #ffffff;
+}
+#footer1-1y P {
+  color: #ffffff;
+  text-align: center;
+}
+#content5-1w .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #ffffff;
+  font-size: 48px;
+}
+#content5-1w .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-1w .mbr-article {
+  color: #fff;
+}
+#content5-1w .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 36px;
+}
+#content5-1w .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-1w .mbr-article {
   color: #fff;
 }

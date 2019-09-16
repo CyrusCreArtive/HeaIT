@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Hea.It",
-    "currentPage": "page7.html",
+    "currentPage": "Index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -2285,7 +2285,7 @@
           },
           "title1": "TELEMED",
           "caption1": "Hea.lt's full spectrum collaborative tool enables remote consultations in a seamless and secure environment. This revolutionary technology enables doctors to see patients in any clinical setting. Clinical data can be shared between patients, physicians, and specialists; doctors can collaborate on the appropriate treatments.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"page9.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media2": {
             "image": {
               "active": true,
@@ -2308,7 +2308,7 @@
           },
           "title2": "COLPSCOPE &amp; SEXUAL ASSAULT",
           "caption2": "\"Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.\"<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media3": {
             "image": {
               "active": true,
@@ -2331,7 +2331,7 @@
           },
           "title3": "ARTIFICIAL INTELLIGENCE",
           "caption3": "\"Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.\"",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page5.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media4": {
             "image": {
               "active": true,
@@ -2485,7 +2485,7 @@
           },
           "title": "MobileODT SITE",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"https://www.mobileodt.com/\" data-toolbar=\"-mbrBtnMove\">VISIT</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"https://www.mobileodt.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VISIT</a> ",
           "_tags": [
             "Theme"
           ],

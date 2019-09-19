@@ -1141,14 +1141,13 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/full-logo-white-265x136.png",
+              "src": "@PROJECT_PATH@/assets/images/full-logo-white-265x130.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
               "link": "Index.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -1406,7 +1405,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/full-logo-white-265x136.png",
+              "src": "@PROJECT_PATH@/assets/images/full-logo-white-265x130.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1996,7 +1995,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/full-logo-white-265x136.png",
+              "src": "@PROJECT_PATH@/assets/images/full-logo-white-265x130.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -2727,7 +2726,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/full-logo-white-265x136.png",
+              "src": "@PROJECT_PATH@/assets/images/full-logo-white-265x130.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
